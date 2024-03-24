@@ -1,9 +1,7 @@
 body {
+  background-color: #202020;
   font-family: "Poppins", sans-serif;
 }
 .hero-section {
   height: 56.25rem;
-}
-.navbar {
-  background-color: #202020;
 }
