@@ -5,6 +5,9 @@ body {
 .hero-section {
   height: 56.25rem;
 }
+h3 {
+  color: #f65282;
+}
 footer {
   background-color: #282323;
 }
