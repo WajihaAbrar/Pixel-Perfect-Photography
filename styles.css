@@ -8,12 +8,22 @@ body {
 h3 {
   color: #f65282;
 }
-.contact-page i {
+i {
   color: white;
+}
+.contact-page {
+  height: 30rem;
 }
 footer {
   background-color: #282323;
 }
-footer i {
-  color: white;
+@media (max-width: 1024px) {
+  .contact-page {
+    height: 60rem;
+  }
+}
+@media (max-width: 700px) {
+  .contact-page {
+    height: 42rem;
+  }
 }
