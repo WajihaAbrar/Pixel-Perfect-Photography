@@ -8,6 +8,12 @@ body {
 h3 {
   color: #f65282;
 }
+.contact-page i {
+  color: white;
+}
 footer {
   background-color: #282323;
+}
+footer i {
+  color: white;
 }
